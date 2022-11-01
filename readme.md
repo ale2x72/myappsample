@@ -1,4 +1,4 @@
-# MyApp
-This is my app.
+# Move along
+Nothing to see here.
 
-(actually, this is just a repo created to familiarize with git)
+(this is just a repo created to familiarize with git)
